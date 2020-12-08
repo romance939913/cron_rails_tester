@@ -20,25 +20,25 @@
 # Learn more: http://github.com/javan/whenever
 
 every :monday, :at => '11:40pm', by_timezone: 'Eastern Time (US & Canada)' do
-  rake "add_record:add_time_stamp"
+  rake "add_record:add_time_record"
 end
 
 every :monday, :at => '11:41pm', by_timezone: 'Eastern Time (US & Canada)' do
-  rake "add_record:add_time_stamp"
+  rake "add_record:add_time_record"
 end
 
 every :monday, :at => '11:42pm', by_timezone: 'Eastern Time (US & Canada)' do
-  rake "add_record:add_time_stamp"
+  rake "add_record:add_time_record"
 end
 
 every :monday, :at => '11:43pm', by_timezone: 'Eastern Time (US & Canada)' do
-  rake "add_record:add_time_stamp"
+  rake "add_record:add_time_record"
 end
 
 every :monday, :at => '11:44pm', by_timezone: 'Eastern Time (US & Canada)' do
-  rake "add_record:add_time_stamp"
+  rake "add_record:add_time_record"
 end
 
 every :monday, :at => '11:45pm', by_timezone: 'Eastern Time (US & Canada)' do
-  rake "add_record:add_time_stamp"
+  rake "add_record:add_time_record"
 end
