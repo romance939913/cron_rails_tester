@@ -19,26 +19,26 @@
 
 # Learn more: http://github.com/javan/whenever
 
-every :monday, :at => '7:40pm', by_timezone: 'Eastern Time (US & Canada)' do
+every :monday, :at => '8:10pm', by_timezone: 'Eastern Time (US & Canada)' do
   rake "add_record:add_time_record"
 end
 
-every :monday, :at => '7:41pm', by_timezone: 'Eastern Time (US & Canada)' do
+every :monday, :at => '8:11pm', by_timezone: 'Eastern Time (US & Canada)' do
   rake "add_record:add_time_record"
 end
 
-every :monday, :at => '7:42pm', by_timezone: 'Eastern Time (US & Canada)' do
+every :monday, :at => '8:12pm', by_timezone: 'Eastern Time (US & Canada)' do
   rake "add_record:add_time_record"
 end
 
-every :monday, :at => '7:43pm', by_timezone: 'Eastern Time (US & Canada)' do
+every :monday, :at => '8:13pm', by_timezone: 'Eastern Time (US & Canada)' do
   rake "add_record:add_time_record"
 end
 
-every :monday, :at => '7:44pm', by_timezone: 'Eastern Time (US & Canada)' do
+every :monday, :at => '8:14pm', by_timezone: 'Eastern Time (US & Canada)' do
   rake "add_record:add_time_record"
 end
 
-every :monday, :at => '7:45pm', by_timezone: 'Eastern Time (US & Canada)' do
+every :monday, :at => '8:15pm', by_timezone: 'Eastern Time (US & Canada)' do
   rake "add_record:add_time_record"
 end
