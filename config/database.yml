@@ -80,6 +80,4 @@ test:
 #
 production:
   <<: *default
-  database: cron_rails_tester_production
-  username: cron_rails_tester
-  password: <%= ENV['CRON_RAILS_TESTER_DATABASE_PASSWORD'] %>
+  url: <%= ENV['DATABASE_URL'] %>
